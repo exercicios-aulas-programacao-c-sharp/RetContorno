@@ -1,0 +1,11 @@
+C:\git\exercicios-aulas-programacao-c-sharp\RetContorno\bin\Debug\netcoreapp3.1\RetContorno.exe
+C:\git\exercicios-aulas-programacao-c-sharp\RetContorno\bin\Debug\netcoreapp3.1\RetContorno.deps.json
+C:\git\exercicios-aulas-programacao-c-sharp\RetContorno\bin\Debug\netcoreapp3.1\RetContorno.runtimeconfig.json
+C:\git\exercicios-aulas-programacao-c-sharp\RetContorno\bin\Debug\netcoreapp3.1\RetContorno.runtimeconfig.dev.json
+C:\git\exercicios-aulas-programacao-c-sharp\RetContorno\bin\Debug\netcoreapp3.1\RetContorno.dll
+C:\git\exercicios-aulas-programacao-c-sharp\RetContorno\bin\Debug\netcoreapp3.1\RetContorno.pdb
+C:\git\exercicios-aulas-programacao-c-sharp\RetContorno\obj\Debug\netcoreapp3.1\RetContorno.csprojAssemblyReference.cache
+C:\git\exercicios-aulas-programacao-c-sharp\RetContorno\obj\Debug\netcoreapp3.1\RetContorno.AssemblyInfoInputs.cache
+C:\git\exercicios-aulas-programacao-c-sharp\RetContorno\obj\Debug\netcoreapp3.1\RetContorno.AssemblyInfo.cs
+C:\git\exercicios-aulas-programacao-c-sharp\RetContorno\obj\Debug\netcoreapp3.1\RetContorno.dll
+C:\git\exercicios-aulas-programacao-c-sharp\RetContorno\obj\Debug\netcoreapp3.1\RetContorno.pdb
